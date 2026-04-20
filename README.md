@@ -2,10 +2,6 @@
 
 ### Embedded Systems Engineer and Data Analyst with skills in AI, ML, Java, SQL and Power BI.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=star-on-earth&label=Profile views&color=0e75b6&style=flat" alt="star-on-earth" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=star-on-earth" alt="star-on-earth" /></a> </p>
-
 - 🔭 I'm currently working on **a FinTech project**
 
 - 🌱 I'm currently learning **Frontend Development**
