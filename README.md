@@ -2,7 +2,7 @@
 
 ### Embedded Systems Engineer and Data Analyst with skills in AI, ML, Java, SQL and Power BI.
 
-- 🔭 I'm currently working on **a FinTech project**
+- 🔭 I'm currently working on **WealthWise-A FinTech Project**
 
 - 🌱 I'm currently learning **Frontend Development**
 
