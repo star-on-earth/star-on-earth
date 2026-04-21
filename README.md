@@ -13,6 +13,9 @@
 - 👨‍💻 All of my projects are available at **[https://star-on-earth.github.io/Portfolio/](https://star-on-earth.github.io/Portfolio/)**
 
 - 📄 Know about my experiences **[https://github.com/star-on-earth/Portfolio/blob/main/public/resume.pdf](https://github.com/star-on-earth/Portfolio/blob/main/public/resume.pdf)**
+  
+- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=star-on-earth&show_icons=true&locale=en&layout=compact" alt="star-on-earth" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=star-on-earth&show_icons=true&locale=en" alt="star-on-earth" /></p>
-
